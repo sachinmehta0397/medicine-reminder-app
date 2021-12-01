@@ -37,7 +37,7 @@ samples, guidance on mobile development, and a full API reference.
 ### App features :
 - [x] Save medicines in local database
 - [x] Show notification in correct time
-- [x] Delete medicines
+- [x] Delete medicines for the schedule
 
 
 
@@ -48,3 +48,4 @@ samples, guidance on mobile development, and a full API reference.
 <img src= "scr/home_screen.png"  width="40%">
 <img src= "scr/home_screen_2.png"  width="40%">
 <img src= "scr/notify_screen.png"  width="40%">
+<img src= "scr/delete_screen.png"  width="40%">
